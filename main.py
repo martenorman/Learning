@@ -1,1 +1,1 @@
-print("hallo")
+player_choice = "Rock"
